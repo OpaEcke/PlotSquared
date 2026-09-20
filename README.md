@@ -61,7 +61,7 @@ PlotSquared repository.
     <img src="https://www.yourkit.com/images/yklogo.png">
 </a>
 
-Thank you to YourKit for supporting our product by providing us with their innovative and intelligent tools
+Thank you to YourKit for supporting ourr product by providing us with their innovative and intelligent tools
 for monitoring and profiling Java and .NET applications.
 YourKit is the creator
 of [YourKit Java Profiler](https://www.yourkit.com/java/profiler/), [YourKit .NET Profiler](https://www.yourkit.com/.net/profiler/),
